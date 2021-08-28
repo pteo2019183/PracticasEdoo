@@ -1,0 +1,12 @@
+button{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(74, 77, 77);
+}
+
+.container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    width: 600px;
+    margin: auto;
+}
